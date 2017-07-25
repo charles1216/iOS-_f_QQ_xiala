@@ -15,6 +15,7 @@
 		C4E71DD71F279D0900E98244 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4E71DD51F279D0900E98244 /* LaunchScreen.storyboard */; };
 		C4E71DE21F279D0900E98244 /* _QQ____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = C4E71DE11F279D0900E98244 /* _QQ____Tests.m */; };
 		C4E71DED1F279D0900E98244 /* _QQ____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C4E71DEC1F279D0900E98244 /* _QQ____UITests.m */; };
+		C4E71DFC1F279EBF00E98244 /* BPCustomNavBar.m in Sources */ = {isa = PBXBuildFile; fileRef = C4E71DFB1F279EBF00E98244 /* BPCustomNavBar.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		C4E71DE81F279D0900E98244 /* 仿QQ下拉效果UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "仿QQ下拉效果UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4E71DEC1F279D0900E98244 /* _QQ____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_QQ____UITests.m"; sourceTree = "<group>"; };
 		C4E71DEE1F279D0900E98244 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C4E71DFA1F279EBF00E98244 /* BPCustomNavBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BPCustomNavBar.h; sourceTree = "<group>"; };
+		C4E71DFB1F279EBF00E98244 /* BPCustomNavBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BPCustomNavBar.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				C4E71DCB1F279D0900E98244 /* AppDelegate.m */,
 				C4E71DCD1F279D0900E98244 /* ViewController.h */,
 				C4E71DCE1F279D0900E98244 /* ViewController.m */,
+				C4E71DFA1F279EBF00E98244 /* BPCustomNavBar.h */,
+				C4E71DFB1F279EBF00E98244 /* BPCustomNavBar.m */,
 				C4E71DD01F279D0900E98244 /* Main.storyboard */,
 				C4E71DD31F279D0900E98244 /* Assets.xcassets */,
 				C4E71DD51F279D0900E98244 /* LaunchScreen.storyboard */,
@@ -278,6 +283,7 @@
 			files = (
 				C4E71DCF1F279D0900E98244 /* ViewController.m in Sources */,
 				C4E71DCC1F279D0900E98244 /* AppDelegate.m in Sources */,
+				C4E71DFC1F279EBF00E98244 /* BPCustomNavBar.m in Sources */,
 				C4E71DC91F279D0900E98244 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
